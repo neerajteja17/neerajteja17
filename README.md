@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=900&size=45&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&width=800&lines=Kalepu+Neeraj+Teja;AI+%26+ML+Engineer;Full-Stack+Developer;Tech+Innovator" alt="Animated Heading" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=900&size=45&duration=3000&pause=1000&color=#CCFF00&center=true&vCenter=true&width=800&lines=Kalepu+Neeraj+Teja;AI+%26+ML+Engineer;Full-Stack+Developer;Tech+Innovator" alt="Animated Heading" />
 </div>
 
 <div align="center">
