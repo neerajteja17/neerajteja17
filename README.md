@@ -121,7 +121,6 @@ I'm a passionate software developer and tech enthusiast dedicated to creating ef
   </a>
 </div>
 
-
 <div align="center">
 
 </div>
@@ -166,25 +165,38 @@ I'm a passionate software developer and tech enthusiast dedicated to creating ef
 
 <div align="center">
 
-<!-- Bachelor's Degree -->
+<!-- ================= BACHELOR'S DEGREE ================= -->
 <table>
 <tr>
-<td width="80%" style="border:1.5px solid #e6e6e6; border-radius:14px; padding:24px; background:linear-gradient(135deg,#0d1117,#0b0f1a);">
+<td width="80%" style="
+border:1.5px solid #E6EDF3;
+border-radius:16px;
+padding:26px;
+background:linear-gradient(135deg,#0D1117,#0B0F1A);
+box-shadow:0 0 20px rgba(255,77,141,0.28);
+">
 
 <h3>
-🎓 <span style="color:#ff4d8d; text-shadow:0 0 8px #ff4d8d;">
+🎓 <span style="
+color:#FF4D8D;
+text-shadow:0 0 10px #FF4D8D;
+font-weight:700;
+">
 Bachelor's Degree
 </span>
 </h3>
 
-<p style="color:#c9d1d9; font-size:16px;">
+<p style="color:#C9D1D9; font-size:16px; line-height:1.6;">
 <strong>B.Tech in Computer Science & Engineering</strong><br/>
 SRM Institute of Science & Technology, Chennai
 </p>
 
-📅 <i>2023 – 2027</i><br/><br/>
+<span style="color:#58A6FF;">📅 2023 – 2027</span><br/><br/>
 
-🟨 <strong>CGPA:</strong> 9.04 / 10.0 &nbsp;&nbsp; 🎖️ <strong>Track:</strong> Distinction  
+<span style="color:#FACC15;">
+<strong>CGPA:</strong> 9.04 / 10.0
+</span>
+&nbsp;&nbsp; 🎖️ <span style="color:#C9D1D9;"><strong>Track:</strong> Distinction</span>
 
 </td>
 </tr>
@@ -192,25 +204,38 @@ SRM Institute of Science & Technology, Chennai
 
 <br/>
 
-<!-- Senior Secondary -->
+<!-- ================= SENIOR SECONDARY ================= -->
 <table>
 <tr>
-<td width="80%" style="border:1.5px solid #e6e6e6; border-radius:14px; padding:24px; background:linear-gradient(135deg,#0d1117,#0b0f1a);">
+<td width="80%" style="
+border:1.5px solid #E6EDF3;
+border-radius:16px;
+padding:26px;
+background:linear-gradient(135deg,#0D1117,#0B0F1A);
+box-shadow:0 0 20px rgba(255,77,141,0.28);
+">
 
 <h3>
-📚 <span style="color:#ff4d8d; text-shadow:0 0 8px #ff4d8d;">
+📚 <span style="
+color:#FF4D8D;
+text-shadow:0 0 10px #FF4D8D;
+font-weight:700;
+">
 Senior Secondary
 </span>
 </h3>
 
-<p style="color:#c9d1d9; font-size:16px;">
+<p style="color:#C9D1D9; font-size:16px; line-height:1.6;">
 <strong>Class XII (BIEAP – MPC)</strong><br/>
 Narayana Co Spark Campus, Vizianagaram
 </p>
 
-📅 <i>2023</i><br/><br/>
+<span style="color:#58A6FF;">📅 2023</span><br/><br/>
 
-🟨 <strong>Percentage:</strong> 86% &nbsp;&nbsp; 🏅 <strong>Achievement:</strong> Merit Certificate  
+<span style="color:#FACC15;">
+<strong>Percentage:</strong> 86%
+</span>
+&nbsp;&nbsp; 🏅 <span style="color:#C9D1D9;"><strong>Achievement:</strong> Merit Certificate</span>
 
 </td>
 </tr>
@@ -218,25 +243,38 @@ Narayana Co Spark Campus, Vizianagaram
 
 <br/>
 
-<!-- Secondary -->
+<!-- ================= SECONDARY ================= -->
 <table>
 <tr>
-<td width="80%" style="border:1.5px solid #e6e6e6; border-radius:14px; padding:24px; background:linear-gradient(135deg,#0d1117,#0b0f1a);">
+<td width="80%" style="
+border:1.5px solid #E6EDF3;
+border-radius:16px;
+padding:26px;
+background:linear-gradient(135deg,#0D1117,#0B0F1A);
+box-shadow:0 0 20px rgba(255,77,141,0.28);
+">
 
 <h3>
-📖 <span style="color:#ff4d8d; text-shadow:0 0 8px #ff4d8d;">
+📖 <span style="
+color:#FF4D8D;
+text-shadow:0 0 10px #FF4D8D;
+font-weight:700;
+">
 Secondary
 </span>
 </h3>
 
-<p style="color:#c9d1d9; font-size:16px;">
+<p style="color:#C9D1D9; font-size:16px; line-height:1.6;">
 <strong>Class X (CBSE)</strong><br/>
 The Sun School, Vizianagaram
 </p>
 
-📅 <i>2021</i><br/><br/>
+<span style="color:#58A6FF;">📅 2021</span><br/><br/>
 
-🟨 <strong>Percentage:</strong> 79% &nbsp;&nbsp; ⭐ <strong>Performance:</strong> Excellent  
+<span style="color:#FACC15;">
+<strong>Percentage:</strong> 79%
+</span>
+&nbsp;&nbsp; ⭐ <span style="color:#C9D1D9;"><strong>Performance:</strong> Excellent</span>
 
 </td>
 </tr>
