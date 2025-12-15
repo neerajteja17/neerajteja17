@@ -127,40 +127,6 @@ I'm a passionate software developer and tech enthusiast dedicated to creating ef
 
 ---
 
-### 💻 WEB DEVELOPMENT SHOWCASE
-
-<div align="left">
-
-#### Personal Portfolio Website
-*Jun 2025 - Jul 2025* | HTML • CSS • JavaScript
-> Professional portfolio with responsive design and smooth interactions. Modern UI/UX principles throughout.
-
-#### Digital Resume Builder
-*Jun 2025 - Jul 2025* | HTML • CSS • JavaScript
-> Dynamic resume platform with real-time preview and multiple export formats.
-
-#### Responsive Page Layout
-*Jun 2025 - Jul 2025* | HTML • CSS • JavaScript
-> Modern responsive designs mastering CSS Grid, Flexbox, and mobile-first approach.
-
-</div>
-
-### 🔧 FULL-STACK & SYSTEMS
-
-<div align="left">
-
-#### Bus Ticket Booking & Management GUI
-*Aug 2024 - Nov 2024* | Java • MySQL
-> Comprehensive booking system with intuitive interface. Integrated database for transaction management.
-
-#### Multi-Control Robot Car
-*Feb 2025 - May 2025* | Hardware • Programming • IoT
-> IoT-based autonomous vehicle demonstrating hardware integration and advanced programming.
-
-</div>
-
----
-
 ### 🎓 Education
 
 <div align="center">
