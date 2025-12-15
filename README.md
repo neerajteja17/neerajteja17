@@ -3,17 +3,7 @@
 </div>
 
 <div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=neerajteja&label=Profile%20Views&color=1E90FF&style=flat-square)
-![GitHub Followers](https://img.shields.io/github/followers/neerajteja?style=flat-square&color=1E90FF&label=Followers)
-![GitHub Stars](https://img.shields.io/github/stars/neerajteja?style=flat-square&color=FFD700&label=Stars)
-
-</div>
-
----
-
-<div align="center">
-  <a href="https://linkedin.com/in/neerajteja">
+  <a href="https://www.linkedin.com/in/neeraj-teja-kalepu-341601334">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn" />
   </a>
   <a href="https://github.com/neerajteja">
@@ -22,27 +12,27 @@
   <a href="mailto:nk7049@srmist.edu.in">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="tel:+917893161135">
+  <a href=" ">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
 </div>
 
 ---
 
-## 🌟 About Me
+## 🌟 ABOUT ME
 
-<div align="right">
+<div align="left">
 
-> **Computer Science student at SRM Institute of Science & Technology** • **CGPA: 9.04/10**
+> **Computer Science student at SRM Institute of Science & Technology** • **CGPA: 9.09/10**
 >
 > Passionate about building intelligent systems and crafting beautiful web experiences.
 > Driven by the intersection of AI, Machine Learning, and innovative problem-solving.
 
 </div>
 
-### 🎯 Key Focus Areas
+### 🎯 KEY FOCUS AREA
 
-<div align="center">
+<div align="left">
 
 | 🤖 AI & ML | 💻 Web Dev | 🧠 Deep Learning | 📊 Data Science |
 |:---:|:---:|:---:|:---:|
@@ -54,11 +44,11 @@
 
 ---
 
-## 💎 Tech Arsenal
+## 💎 TECH ARSENAL
 
 <div align="center">
 
-### 🔧 Languages & Core
+### 🔧 LANGUAGES "&" CORE
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -67,7 +57,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-### 🧬 AI/ML & Data Science
+### 🧬 AI/ML "&" DATA SCIENCE
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
@@ -75,7 +65,7 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
-### 🛠 Tools & Platform
+### 🛠 TOOLS "&" PLATFORM
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
@@ -86,9 +76,9 @@
 
 ---
 
-## 🏢 Professional Experience
+## 🏢 PROFESSIONAL EXPERIENCE
 
-<div align="center">
+<div align="left">
 
 #### 🚀 IBM Skills Build | AI Intern Developer
 **Jun 2025 - Present** | Virtual | Edunet Foundation
@@ -110,11 +100,11 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 FEATURED PROJECTS
 
-### 🤖 Machine Learning Innovations
+### 🤖 MACHINE LEARNING INNOVATIONS
 
-<div align="center">
+<div align="left">
 
 #### Face Recognition with AI
 *Jul 2024 - Oct 2024* | Python • OpenCV • ML
@@ -136,9 +126,9 @@
 
 </div>
 
-### 💻 Web Development Showcase
+### 💻 WEB DEVELOPMENT SHOWCASE
 
-<div align="center">
+<div align="left">
 
 #### Personal Portfolio Website
 *Jun 2025 - Jul 2025* | HTML • CSS • JavaScript
@@ -154,9 +144,9 @@
 
 </div>
 
-### 🔧 Full-Stack & Systems
+### 🔧 FULL-STACK & SYSTEMS
 
-<div align="center">
+<div align="left">
 
 #### Bus Ticket Booking & Management GUI
 *Aug 2024 - Nov 2024* | Java • MySQL
@@ -170,9 +160,8 @@
 
 ---
 
-## 🎓 Education Timeline
-
-<div align="center">
+## 🎓 EDUCATION TIMELINE
+<div align="left">
 
 ### 🏆 Bachelor's Degree
 **B.Tech in Computer Science & Engineering**
@@ -193,7 +182,7 @@ The Sun School, Vizianagaram | 2021
 
 ---
 
-## 🌍 Language Proficiency
+## 🌍 LANGUAGE PROFICIENCY
 
 <div align="center">
 
@@ -205,33 +194,34 @@ The Sun School, Vizianagaram | 2021
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GITHUB ANALYTICS
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=neerajteja&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&text_color=E0E0E0&icon_color=1E90FF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=neerajteja17&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&bg_color=0D1117&text_color=E0E0E0&icon_color=58A6FF)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=neerajteja&theme=tokyonight&hide_border=true&background=0D1117&ring=1E90FF&fire=FFD700&currStreakLabel=1E90FF)
+![GitHub Streak](https://streak-stats.demolab.com?user=neerajteja17&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FACC15&currStreakLabel=58A6FF)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=neerajteja&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&text_color=E0E0E0&title_color=1E90FF)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=neerajteja17&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&text_color=E0E0E0&title_color=58A6FF&langs_count=6)
+
+</div>
+
+
+---
+
+## 🎯 GITHUB ACTIVITY GRAPH
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=neerajteja17&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FACC15&area=false)
 
 </div>
 
 ---
 
-## 🎯 GitHub Activity Graph
+## 🌐 LET'S CONNECT
 
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=neerajteja&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=1E90FF&line=1E90FF&point=FFD700&area=true)
-
-</div>
-
----
-
-## 🌐 Let's Connect!
-
-<div align="center">
+<div align="left">
 
 ### I'm always open to collaborating on innovative projects and exploring new technologies.
 
@@ -247,9 +237,3 @@ The Sun School, Vizianagaram | 2021
 <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=20&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&width=800&lines=Let's+build+something+amazing+together!;Innovation+never+stops.;Code+%7C+Create+%7C+Innovate" alt="Closing Message" />
-
----
-
-*Last Updated: December 2025*
-
-</div>
