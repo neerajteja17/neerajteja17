@@ -43,7 +43,7 @@ I'm a passionate software developer and tech enthusiast dedicated to creating ef
 
 ---
 
-## 💻 TECH STACK
+#### 💻 TECH STACK
 
 <div align="center">
 
