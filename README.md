@@ -19,14 +19,22 @@
 
 ---
 
-## 🌟 ABOUT ME
+### 🌟 ABOUT ME
 
 <div align="left">
-
+> ## NEERAJ TEJA KALEPU
 > **Computer Science student at SRM Institute of Science & Technology** • **CGPA: 9.09/10**
 >
-> Passionate about building intelligent systems and crafting beautiful web experiences.
-> Driven by the intersection of AI, Machine Learning, and innovative problem-solving.
+> <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=neerajteja17&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/neerajteja17?label=Followers&style=social">
+  <img src="https://img.shields.io/github/last-commit/neerajteja17/neerajteja17?label=Last%20Updated&color=blue">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=neerajteja17.neerajteja17&left_color=green&right_color=red&left_text=Hello%20Visitors" />
+</div>
+
+> - I'm currently working on building scalable solutions
+> - Learning Cloud Computing and AI/ML
+> - Open to collaborate on innovative projects and open source contributions
 
 </div>
 
@@ -198,7 +206,7 @@ The Sun School, Vizianagaram | 2021
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=neerajteja17&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&bg_color=0D1117&text_color=E0E0E0&icon_color=58A6FF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=neerajteja17&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&text_color=E0E0E0&icon_color=58A6FF)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=neerajteja17&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FACC15&currStreakLabel=58A6FF)
 
@@ -227,8 +235,6 @@ The Sun School, Vizianagaram | 2021
 
 **📧 Email:** nk7049@srmist.edu.in
 **📱 Phone:** +91 7893161135
-**📍 Location:** Vizianagaram, Andhra Pradesh, India
-**🎓 Institution:** SRM Institute of Science & Technology
 
 </div>
 
