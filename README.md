@@ -26,7 +26,7 @@
 
 ---
 
-### 🌟 ABOUT ME
+## 🌟 ABOUT ME
 
 <div align="left">
 I'm a passionate software developer and tech enthusiast dedicated to creating efficient, scalable solutions to real-world problems. I love exploring new technologies and contributing to open-source projects. CGPA - 9.13
@@ -43,7 +43,7 @@ I'm a passionate software developer and tech enthusiast dedicated to creating ef
 
 ---
 
-#### 💻 TECH STACK
+### 💻 TECH STACK
 
 <div align="center">
 
