@@ -111,9 +111,11 @@ I'm a passionate software developer and tech enthusiast dedicated to creating ef
   <a href="https://github.com/neerajteja17/MULTI-CONTROL-ROBOTIC-CAR">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=saiimmani&repo=FaceRecognitionAttendanceSystem&theme=radical" />
   </a>
+  
   <a href="https://github.com/neerajteja17/FaceRecognitionAttendanceSystem">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=saiimmani&repo=BillingSystem&theme=radical" />
   </a>
+  
   <a href="https://github.com/neerajteja17/BUS-MANAGEMENT-SYSTEM">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=saiimmani&repo=Book-Management-System&theme=radical" />
   </a>
@@ -160,25 +162,48 @@ I'm a passionate software developer and tech enthusiast dedicated to creating ef
 
 ---
 
-### 🎓 EDUCATION TIMELINE
-<div align="left">
+### 🎓 EDUCATION
 
-#### 🏆 Bachelor's Degree
-**B.Tech in Computer Science & Engineering**
-SRM Institute of Science & Technology, Chennai | 2023 - 2027
-> **CGPA: 9.04/10.0** | Distinction Track
+<div align="center">
 
-#### 📚 Senior Secondary
-**Class XII** (BIEAP - MPC)
-Narayana Co Spark Campus, Vizianagaram | 2023
-> **Percentage: 86%** | Merit Certificate
+### 🏆 Bachelor's Degree  
+**B.Tech in Computer Science & Engineering**  
+SRM Institute of Science & Technology, Chennai  
+📅 *2023 – 2027*  
 
-#### 📖 Secondary
-**Class X** (CBSE)
-The Sun School, Vizianagaram | 2021
-> **Percentage: 79%** | Excellent Performance
+🟨 **CGPA:** 9.04 / 10.0  
+🎖️ **Track:** Distinction  
 
 </div>
+
+---
+
+<div align="center">
+
+### 📚 Senior Secondary  
+**Class XII (BIEAP – MPC)**  
+Narayana Co Spark Campus, Vizianagaram  
+📅 *2023*  
+
+🟨 **Percentage:** 86%  
+🏅 **Achievement:** Merit Certificate  
+
+</div>
+
+---
+
+<div align="center">
+
+### 📖 Secondary  
+**Class X (CBSE)**  
+The Sun School, Vizianagaram  
+📅 *2021*  
+
+🟨 **Percentage:** 79%  
+⭐ **Performance:** Excellent  
+
+</div>
+
 
 ---
 
