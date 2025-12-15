@@ -21,7 +21,6 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=neerajteja17&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/neerajteja17?label=Followers&style=social">
-  <img src="https://img.shields.io/github/last-commit/neerajteja17/neerajteja17?label=Last%20Updated&color=blue">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=neerajteja17.neerajteja17&left_color=green&right_color=red&left_text=Hello%20Visitors" />
 </div>
 
