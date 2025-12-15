@@ -17,20 +17,20 @@
   </a>
 </div>
 
----
 
-### 🌟 ABOUT ME
-
-<div align="left">
-> ## NEERAJ TEJA KALEPU
-> **Computer Science student at SRM Institute of Science & Technology** • **CGPA: 9.09/10**
->
-> <div align="center">
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=neerajteja17&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/neerajteja17?label=Followers&style=social">
   <img src="https://img.shields.io/github/last-commit/neerajteja17/neerajteja17?label=Last%20Updated&color=blue">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=neerajteja17.neerajteja17&left_color=green&right_color=red&left_text=Hello%20Visitors" />
 </div>
+
+---
+
+### 🌟 ABOUT ME
+
+<div align="left">
+> **Computer Science student at SRM Institute of Science & Technology** • **CGPA: 9.09/10**
 
 > - I'm currently working on building scalable solutions
 > - Learning Cloud Computing and AI/ML
@@ -38,25 +38,13 @@
 
 </div>
 
-### 🎯 KEY FOCUS AREA
-
-<div align="left">
-
-| 🤖 AI & ML | 💻 Web Dev | 🧠 Deep Learning | 📊 Data Science |
-|:---:|:---:|:---:|:---:|
-| Intelligent Systems | Full-Stack Dev | Neural Networks | Analytics |
-| Automation | Responsive Design | TensorFlow | Python |
-| Computer Vision | Modern UI/UX | Advanced Models | Insights |
-
-</div>
-
 ---
 
-## 💎 TECH ARSENAL
+## 💻 TECH STACK
 
 <div align="center">
 
-### 🔧 LANGUAGES "&" CORE
+### LANGUAGES & CORE
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -65,7 +53,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-### 🧬 AI/ML "&" DATA SCIENCE
+### AI/ML & DATA SCIENCE
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
@@ -73,12 +61,18 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
-### 🛠 TOOLS "&" PLATFORM
+### TOOLS & PLATFORM
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=flat-square&logo=jupyter&logoColor=white)
+
+
+### TECH STACK ANIMATION
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,express,docker,git,aws,html,css,vscode&theme=dark" />
+</div>
 
 </div>
 
