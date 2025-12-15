@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=00D9FF&size=30&lines=Hey!+I'm+Neeraj+Teja!;Computer+Science+Engineer...;AI+%26+Web+Development+Enthusiast...;Welcome+to+my+GitHub+Profile!;Let's+innovate+together!" alt="Typing SVG" />
 </div>
 
-# 👨‍💻 Kalepu Neeraj Teja | Software Developer & AI Enthusiast
+# NEERAJ TEJA KALEPU | Software Developer & AI Enthusiast
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=neerajteja&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -11,7 +11,7 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=neerajteja.neerajteja&left_color=green&right_color=red&left_text=Hello%20Visitors" />
 </div>
 
-## 😊 About Me
+## ABOUT ME
 
 I'm a passionate Computer Science student at SRM Institute of Science and Technology with a strong focus on Artificial Intelligence and Web Development. Currently pursuing B.Tech with a CGPA of 9.04, I'm dedicated to creating innovative solutions and exploring cutting-edge technologies.
 
@@ -60,12 +60,6 @@ I'm a passionate Computer Science student at SRM Institute of Science and Techno
   </table>
 </div>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=neerajteja&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
-</div>
-
 ## 🛠 Tech Stack
 
 <div align="center">
@@ -111,21 +105,6 @@ I'm a passionate Computer Science student at SRM Institute of Science and Techno
 
 </div>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=neerajteja&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=neerajteja&theme=radical&hide_border=true" alt="GitHub Streak" height="180" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neerajteja&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
-
-## 📈 GitHub Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=neerajteja&theme=react-dark&bg_color=20232a&color=61dafb&line=61dafb&point=61dafb&area=true&hide_border=true" alt="Activity Graph" />
-</div>
-
 ## 🔥 Featured Projects
 
 <div align="center">
@@ -162,12 +141,6 @@ I'm a passionate Computer Science student at SRM Institute of Science and Techno
 
 </div>
 
-## 🌟 Dynamic Profile Features
-
-<div align="center">
-
-### 📈 GitHub Insights
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=neerajteja&theme=radical" />
 
 ### 📊 Detailed Stats
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=neerajteja&theme=radical" />
@@ -213,13 +186,12 @@ I'm a passionate Computer Science student at SRM Institute of Science and Techno
 <div align="center">
 
 ```yaml
-name: Kalepu Neeraj Teja
-role: Computer Science Student & AI Developer
-email: nk7049@srmist.edu.in
-phone: +91 7893161135
-location: Vizianagaram, Andhra Pradesh, India
-institution: SRM Institute of Science & Technology
-graduation: 2027
+Name: Kalepu Neeraj Teja
+Role: Computer Science Student & AI Developer
+Email: nk7049@srmist.edu.in
+Location: Vizianagaram, Andhra Pradesh, India
+Institution: SRM Institute of Science & Technology
+Graduation: 2027
 ```
 
 </div>
@@ -230,10 +202,6 @@ graduation: 2027
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=00D9FF&size=20&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Don't+forget+to+⭐+my+repositories;Let's+connect+and+innovate!;Happy+coding!+🚀" alt="Thanks Animation" />
-</div>
-
-<div align="right">
-  <i>Last updated: 2025-12-15</i>
 </div>
 
 <!--
