@@ -81,7 +81,7 @@ I'm a passionate software developer and tech enthusiast dedicated to creating ef
 
 ---
 
-## 🏢 PROFESSIONAL EXPERIENCE
+### 🏢 PROFESSIONAL EXPERIENCE
 
 <div align="left">
 
@@ -105,7 +105,7 @@ I'm a passionate software developer and tech enthusiast dedicated to creating ef
 
 ---
 
-## 🏆 FEATURED PROJECTS
+### 🏆 FEATURED PROJECTS
 
 <div align="center">
   <a href="https://github.com/neerajteja17/MULTI-CONTROL-ROBOTIC-CAR">
@@ -160,20 +160,20 @@ I'm a passionate software developer and tech enthusiast dedicated to creating ef
 
 ---
 
-## 🎓 EDUCATION TIMELINE
+### 🎓 EDUCATION TIMELINE
 <div align="left">
 
-### 🏆 Bachelor's Degree
+#### 🏆 Bachelor's Degree
 **B.Tech in Computer Science & Engineering**
 SRM Institute of Science & Technology, Chennai | 2023 - 2027
 > **CGPA: 9.04/10.0** | Distinction Track
 
-### 📚 Senior Secondary
+#### 📚 Senior Secondary
 **Class XII** (BIEAP - MPC)
 Narayana Co Spark Campus, Vizianagaram | 2023
 > **Percentage: 86%** | Merit Certificate
 
-### 📖 Secondary
+#### 📖 Secondary
 **Class X** (CBSE)
 The Sun School, Vizianagaram | 2021
 > **Percentage: 79%** | Excellent Performance
@@ -182,7 +182,7 @@ The Sun School, Vizianagaram | 2021
 
 ---
 
-## 🌍 LANGUAGE PROFICIENCY
+### 🌍 LANGUAGE PROFICIENCY
 
 <div align="center">
 
@@ -194,7 +194,7 @@ The Sun School, Vizianagaram | 2021
 
 ---
 
-## 📊 GITHUB ANALYTICS
+### 📊 GITHUB ANALYTICS
 
 <div align="center">
 
@@ -209,7 +209,7 @@ The Sun School, Vizianagaram | 2021
 
 ---
 
-## 🎯 GITHUB ACTIVITY GRAPH
+### 🎯 GITHUB ACTIVITY GRAPH
 
 <div align="center">
 
@@ -219,11 +219,11 @@ The Sun School, Vizianagaram | 2021
 
 ---
 
-## 🌐 LET'S CONNECT
+### 🌐 LET'S CONNECT
 
 <div align="left">
 
-### I'm always open to collaborating on innovative projects and exploring new technologies.
+#### I'm always open to collaborating on innovative projects and exploring new technologies.
 
 **📧 Email:** nk7049@srmist.edu.in
 **📱 Phone:** +91 7893161135
