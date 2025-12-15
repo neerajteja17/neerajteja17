@@ -81,25 +81,16 @@ I'm a passionate software developer and tech enthusiast dedicated to creating ef
 
 ---
 
-### 🏢 PROFESSIONAL EXPERIENCE
+### 💼 PROFESSIONAL EXPERIENCE
 
-<div align="left">
+<div align="center">
 
-#### 🚀 IBM Skills Build | AI Intern Developer
-**Jun 2025 - Present** | Virtual | Edunet Foundation
-> Architecting AI solutions with enterprise-grade tools and cutting-edge ML methodologies
-
-#### 💡 Prodigy InfoTech | Web Development Intern
-**Jul 2025 - Aug 2025** | Virtual
-> Engineered responsive applications with modern web technologies and premium UI/UX
-
-#### ⚡ Shell Pvt Ltd | AI Intern
-**Jun 2025 - Jul 2025** | Virtual | Edunet Foundation
-> Explored AI applications in energy sector optimization and strategic analysis
-
-#### 🌐 Tamizhan Skills | Web Development Intern
-**Jun 2025 - Jul 2025** | Virtual
-> Developed full-featured web applications with scalable architecture and clean code
+| 🏢 Organization | 👔 Role | ⏱️ Duration | 🔗 Type |
+|:---|:---|:---|:---|
+| **IBM Skills Build** (Edunet Foundation) | AI Intern Developer | Jun 2025 - Present | Virtual |
+| **Prodigy InfoTech** | Web Dev Intern | Jul 2025 - Aug 2025 | Virtual |
+| **Shell Pvt Ltd** (Edunet Foundation) | AI Intern | Jun 2025 - Jul 2025 | Virtual |
+| **Tamizhan Skills** | Web Dev Intern | Jun 2025 - Jul 2025 | Virtual |
 
 </div>
 
