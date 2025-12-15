@@ -105,31 +105,26 @@ I'm a passionate software developer and tech enthusiast dedicated to creating ef
 
 ---
 
-## 🚀 FEATURED PROJECTS
+## 🏆 FEATURED PROJECTS
 
-### 🤖 MACHINE LEARNING INNOVATIONS
+<div align="center">
+  <a href="https://github.com/neerajteja17/MULTI-CONTROL-ROBOTIC-CAR">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=saiimmani&repo=FaceRecognitionAttendanceSystem&theme=radical" />
+  </a>
+  <a href="https://github.com/neerajteja17/FaceRecognitionAttendanceSystem">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=saiimmani&repo=BillingSystem&theme=radical" />
+  </a>
+  <a href="https://github.com/neerajteja17/BUS-MANAGEMENT-SYSTEM">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=saiimmani&repo=Book-Management-System&theme=radical" />
+  </a>
+</div>
 
-<div align="left">
 
-#### Face Recognition with AI
-*Jul 2024 - Oct 2024* | Python • OpenCV • ML
-> Advanced facial recognition for automated attendance. Real-time detection with machine learning algorithms.
->
-> **Impact:** 95%+ accuracy in real-world scenarios
-
-#### E-Waste Generation Classification
-*Jun 2025 - Jul 2025* | Python • Scikit-Learn • AI
-> ML-powered waste categorization supporting sustainability initiatives.
->
-> **Impact:** Environmental sustainability through intelligent classification
-
-#### Employee Salary Prediction
-*Jun 2025 - Aug 2025* | Python • Deep Learning • Neural Networks
-> Predictive model for compensation forecasting using deep neural networks.
->
-> **Impact:** 92% prediction accuracy through advanced feature engineering
+<div align="center">
 
 </div>
+
+---
 
 ### 💻 WEB DEVELOPMENT SHOWCASE
 
