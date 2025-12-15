@@ -29,7 +29,7 @@
 ### 🌟 ABOUT ME
 
 <div align="left">
-> **Computer Science student at SRM Institute of Science & Technology** • **CGPA: 9.09/10**
+I'm a passionate software developer and tech enthusiast dedicated to creating efficient, scalable solutions to real-world problems. I love exploring new technologies and contributing to open-source projects. CGPA - 9.13
 
 > - I'm currently working on building scalable solutions
 > - Learning Cloud Computing and AI/ML
