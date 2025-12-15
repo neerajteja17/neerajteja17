@@ -31,7 +31,7 @@
 
 ## 🌟 About Me
 
-<div align="center">
+<div align="right">
 
 > **Computer Science student at SRM Institute of Science & Technology** • **CGPA: 9.04/10**
 >
