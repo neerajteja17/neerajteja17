@@ -162,48 +162,51 @@ I'm a passionate software developer and tech enthusiast dedicated to creating ef
 
 ---
 
-### 🎓 EDUCATION
+## 🏆 FEATURED PROJECTS
 
 <div align="center">
 
-### 🏆 Bachelor's Degree  
-**B.Tech in Computer Science & Engineering**  
-SRM Institute of Science & Technology, Chennai  
-📅 *2023 – 2027*  
+<table>
+<tr>
+<td width="50%" valign="top">
 
-🟨 **CGPA:** 9.04 / 10.0  
-🎖️ **Track:** Distinction  
+### 🖥️ <span style="color:#ff4d8d">FaceRecognitionAttendanceSystem</span>
+
+A face recognition system is a technology capable of identifying or verifying a person from a digital image or a video frame by comparing selected facial features.
+
+🔵 **Python** &nbsp; ⭐ **1** &nbsp; 🍴 **2**
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🖥️ <span style="color:#ff4d8d">BillingSystem</span>
+
+A billing system is a comprehensive set of processes, technologies, and software designed to manage and automate invoicing, payment collection, and financial records.
+
+🔵 **Python** &nbsp; ⭐ **2** &nbsp; 🍴 **3**
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+### 🖥️ <span style="color:#ff4d8d">Book-Management-System</span>
+
+Book Management using C refers to a command-line or simple desktop application (often text-based) used to manage book records such as add, delete, search, and update.
+
+⚪ **C** &nbsp; ⭐ **1** &nbsp; 🍴 **1**
+
+</td>
+</tr>
+</table>
 
 </div>
-
----
-
-<div align="center">
-
-### 📚 Senior Secondary  
-**Class XII (BIEAP – MPC)**  
-Narayana Co Spark Campus, Vizianagaram  
-📅 *2023*  
-
-🟨 **Percentage:** 86%  
-🏅 **Achievement:** Merit Certificate  
-
-</div>
-
----
-
-<div align="center">
-
-### 📖 Secondary  
-**Class X (CBSE)**  
-The Sun School, Vizianagaram  
-📅 *2021*  
-
-🟨 **Percentage:** 79%  
-⭐ **Performance:** Excellent  
-
-</div>
-
 
 ---
 
